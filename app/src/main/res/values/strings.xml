@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bixby As Recent Notification</string>
+    <string name="notiftext">Notification Text</string>
+</resources>
